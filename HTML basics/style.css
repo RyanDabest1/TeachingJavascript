@@ -1,0 +1,11 @@
+#count{
+    text-align: center;
+    font-size: 100px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#buttonGroup{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}

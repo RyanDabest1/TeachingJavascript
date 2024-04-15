@@ -1,0 +1,15 @@
+For a function.
+
+A function can have zero parameters or arguments
+A function can also have multiple parameters or arguments
+Arguments must be passed into a fuction that requires them so the function can use the arguemnts as variables (Local)
+
+Function returns a value;
+
+LOOPING 
+For
+while
+
+if/else conditions
+
+Switch case
