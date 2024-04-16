@@ -1,6 +1,9 @@
+
 let funIsLegal;
 
 let classes = ["myanmar", "english", "maths", "chemistry", "physics", "biology"];
+
+checkForFun(classes); //calling functions;
 
 
 function checkForFun(subjects) {
@@ -39,4 +42,4 @@ function checkForFun(subjects) {
     }
 }
 
-checkForFun(classes); //calling functions;
+
